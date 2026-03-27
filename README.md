@@ -48,7 +48,9 @@ This is a web-based Tic Tac Toe game where two players can play against each oth
 
 ## 📸 Screenshot
 
-![Tic Tac Toe Output](Output_Tic_Tac_Tae1.png, Output_Tic_Tac_Tae2.png)
+![Output 1](Output_Tic_Tac_Toe1.png)
+
+![Output 2](Output_Tic_Tac_Toe2.png)
 
 ---
 
